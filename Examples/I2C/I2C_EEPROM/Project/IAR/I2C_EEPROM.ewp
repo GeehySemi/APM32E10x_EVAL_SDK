@@ -1052,7 +1052,7 @@
                 </option>
                 <option>
                     <name>IarchiveOutput</name>
-                    <state>$PROJ_DIR$\APM32E103\Exe\I2C_EEPROM.a</state>
+                    <state>F:\Network_SVN\APM32E103xE\SDK\EVAL_SDK\当前SDK\APM32E10x_EVAL_SDK\Examples\I2C\I2C_EEPROM\Project\IAR\APM32E103\Exe\I2C_EEPROM.a</state>
                 </option>
             </data>
         </settings>
